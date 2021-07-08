@@ -1,4 +1,4 @@
-### Hi there, my fellow GitHub developer 👋
+### Hi there, my fellow developer 👋
 
 Hope you're having a terrific day, genuinely. 
 

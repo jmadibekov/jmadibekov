@@ -1,8 +1,8 @@
 ### Hi there, my fellow GitHub developer 👋
 
-Hope you're having a terrific day! Genuinely. I, for one, am feeling quite wonderful right now, at least when I was writing this. 
+Hope you're having a terrific day, genuinely. 
 
-I am **Joe**, by the way, a software engineer [@ChocoFamily](https://github.com/chocofamilyme) and a former intern [@JaneStreet](https://github.com/janestreet). Currently in love with [Next.js](https://github.com/vercel/next.js/) and [FastAPI](https://github.com/tiangolo/fastapi) (they are really awesome)!
+I am **Joe**, a software engineer [@ChocoFamily](https://github.com/chocofamilyme) and a former intern [@JaneStreet](https://github.com/janestreet). Currently in love with [Next.js](https://github.com/vercel/next.js/) and [FastAPI](https://github.com/tiangolo/fastapi) (they are really awesome)!
 
 Feel free to visit my website at [jubilant.tech](https://www.jubilant.tech/).
 

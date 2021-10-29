@@ -2,7 +2,9 @@
 
 Hope you're having a terrific day, genuinely. 
 
-I am **Joe**, a software engineer [@ChocoFamily](https://github.com/chocofamilyme) and a former intern [@JaneStreet](https://github.com/janestreet). Currently in love with [Next.js](https://github.com/vercel/next.js/) and [FastAPI](https://github.com/tiangolo/fastapi) (they are really awesome)!
+I am **Joe**, a junior student in Computer Science who is quite passionate about programming. And I will keep doing it so long robots don't take over the world (hopefully they won't)! 
+
+Previously I worked as a software engineer at [@ChocoFamily](https://github.com/chocofamilyme) and interned at [@JaneStreet](https://github.com/janestreet). Currently very much in love with [Next.js](https://github.com/vercel/next.js/) and [FastAPI](https://github.com/tiangolo/fastapi) (they are really awesome)!
 
 Feel free to visit my website at [jubilant.tech](https://www.jubilant.tech/).
 

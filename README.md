@@ -1,27 +1,7 @@
 ### Hi there, my fellow developer 👋
 
-Hope you're having a terrific day, genuinely. 
+I hope you're having a terrific day. I'm **Bakhyt**, a senior student majoring in Computer Science, and I'm excessively passionate about programming. I plan to continue pursuing this passion as long as robots and AI don't take over the world (let's hope they won't)!
 
-I am **Joe**, a junior student in Computer Science who is quite passionate about programming. And I will keep doing it so long robots don't take over the world (hopefully they won't)! 
+Previously, I had the opportunity to intern as a software engineer at organizations such as [@Citadel](https://www.citadel.com/), [@Bloomberg](https://github.com/bloomberg), [@Meta](https://github.com/facebook), and [@ChocoFamily](https://github.com/chocofamilyme).
 
-Previously I interned/worked as a software engineer at places like [@Bloomberg](https://github.com/bloomberg), [@Meta](https://github.com/facebook), [@ChocoFamily](https://github.com/chocofamilyme), and [@JaneStreet](https://github.com/janestreet).
-
-Feel free to visit my website at [me-joem.vercel.app](https://me-joem.vercel.app/).
-
-Stay safe and be kind,<br/>
-Joe
-
-<!--
-**jmadibekov/jmadibekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stay safe and be kind.
